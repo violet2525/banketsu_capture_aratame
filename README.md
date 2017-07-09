@@ -1,0 +1,2 @@
+# banketsu_capture_aratame
+一血卍傑の画面キャプチャを撮るChrome拡張その２
